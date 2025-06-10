@@ -1,4 +1,3 @@
-{{-- filepath: d:\supriya\PHP\Laravel\Laravel Project\resources\views\aboutus.blade.php --}}
 
 @extends('layouts.app')
 
